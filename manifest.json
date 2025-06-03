@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Bontaz File Extractor",
+  "version": "1.0",
+  "description": "Extrait les fichiers et leurs auteurs depuis connect.bontaz.com vers un fichier CSV",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://connect.bontaz.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Bontaz File Extractor"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://connect.bontaz.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+ 
+    "48": "icon48.png"
+
+  }
+}
