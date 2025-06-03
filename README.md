@@ -5,7 +5,9 @@
 Une extension de navigateur conçue pour extraire les informations sur les fichiers (nom, auteur, version, taille, dates, etc.) et les structures de dossiers depuis le site `connect.bontaz.com` et les exporter sous forme de fichier CSV.  
 Elle peut fonctionner de manière récursive pour parcourir les sous-dossiers à un niveau de profondeur choisi.
 
-![image](https://github.com/user-attachments/assets/276bf6b3-b413-4bdc-8f84-45fe1bcedc78)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/276bf6b3-b413-4bdc-8f84-45fe1bcedc78" alt="Capture d'écran de l'extension Bontaz File Extractor">
+</p>
 
 
 
