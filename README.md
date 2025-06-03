@@ -29,7 +29,7 @@ Elle peut fonctionner de manière récursive pour parcourir les sous-dossiers à
 
 ## Fonctionnalités
 
-* **Extraction de données de fichiers** : Récupère automatiquement le nom, l'URL, l'auteur (BPO), la version, la taille, la date de modification et la date de publication des fichiers.
+* **Extraction de données de fichiers** : Récupère automatiquement le nom, l'URL, l'auteur, la version, la taille, la date de modification et la date de publication des fichiers.
 * **Scan de page unique** : Analyse rapidement les fichiers présents sur la page actuellement ouverte.
 * **Scan récursif des sous-dossiers** : Permet d'explorer et d'extraire des fichiers sur plusieurs niveaux de profondeur au sein de l'arborescence des dossiers du site.
 * **Profondeur de scan configurable** : Définissez jusqu'à quelle profondeur l'extension doit naviguer dans les sous-dossiers lors d'un scan récursif.
@@ -49,7 +49,7 @@ Actuellement, cette extension n'est pas publiée sur le Chrome Web Store. Vous p
     ```bash
     git clone https://github.com/axelooc59/File_extractor_connect.git
     ```
-2.  **Ouvrez Google Chrome** et accédez à `chrome://extensions` (`edges://extensions` sur Microsoft Edge)  
+2.  **Ouvrez Google Chrome** et accédez à `chrome://extensions` (`edge://extensions` sur Microsoft Edge)  
 3.  **Activez le "Mode développeur"** en haut à droite de la page.
 4.  Cliquez sur le bouton "**Charger l'extension non empaquetée**".
 5.  Sélectionnez le dossier où vous avez téléchargé/cloné les fichiers de l'extension (`bontaz-file-extractor`).
@@ -63,7 +63,7 @@ Ouvrez votre navigateur Chrome et naviguez vers `https://connect.bontaz.com/`. A
 
 ### 2. Ouvrir la Popup de l'extension
 
-Cliquez sur l'icône de l'extension Bontaz File Extractor (un petit icône qui devrait ressembler à celui défini dans `icon48.png`) dans la barre d'outils de Chrome. Cela ouvrira la fenêtre pop-up de l'extension.
+Cliquez sur l'icône de l'extension Bontaz File Extractor (un petit icône qui devrait ressembler à celui défini dans `icon48.png`) dans la barre d'outils de Chrome/Edge. Cela ouvrira la fenêtre pop-up de l'extension.
 
 ### 3. Scanner la page
 
