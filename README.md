@@ -80,7 +80,7 @@ Cliquez sur l'icône de l'extension Bontaz File Extractor (un petit icône qui d
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/276bf6b3-b413-4bdc-8f84-45fe1bcedc78](https://github.com/user-attachments/assets/94883b42-893a-468e-ab6c-a190dc1dba19" alt="Capture d'écran de l'extension Bontaz File Extractor">
+  <img src="https://github.com/user-attachments/assets/94883b42-893a-468e-ab6c-a190dc1dba19" alt="Capture d'écran de l'extension Bontaz File Extractor">
 </p>
 
 ### 5. Sélection des colonnes
