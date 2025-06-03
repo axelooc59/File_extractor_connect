@@ -75,6 +75,7 @@ Cliquez sur l'icône de l'extension Bontaz File Extractor (un petit icône qui d
     * **Profondeur max.** : Si le scan récursif est activé, vous pouvez spécifier le nombre maximal de niveaux de sous-dossiers à explorer (par exemple, 3 pour le dossier actuel + 3 niveaux de sous-dossiers).
 
     > ⚠️ **Avertissement** : Le scan récursif peut prendre plusieurs minutes selon le nombre de dossiers et de fichiers. Une barre de progression vous tiendra informé.
+
 ![Capture d'écran 2025-06-03 095149](https://github.com/user-attachments/assets/94883b42-893a-468e-ab6c-a190dc1dba19)
 
 ### 5. Sélection des colonnes
