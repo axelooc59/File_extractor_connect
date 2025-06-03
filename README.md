@@ -47,7 +47,7 @@ Actuellement, cette extension n'est pas publiée sur le Chrome Web Store. Vous p
 
 1.  **Téléchargez ou clonez le dépôt** :
     ```bash
-    git clone [https://github.com/VotreNomUtilisateur/bontaz-file-extractor.git](https://github.com/VotreNomUtilisateur/bontaz-file-extractor.git)
+    git clone https://github.com/axelooc59/File_extractor_connect.git
     ```
 2.  **Ouvrez Google Chrome** et accédez à `chrome://extensions`.
 3.  **Activez le "Mode développeur"** en haut à droite de la page.
