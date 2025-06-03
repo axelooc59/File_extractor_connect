@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
-Une extension de navigateur conçue pour extraire les informations sur les fichiers (nom, auteur, version, taille, dates, etc.) et les structures de dossiers depuis le site `connect.bontaz.com` et les exporter sous forme de fichier CSV.
+Une extension de navigateur conçue pour extraire les informations sur les fichiers (nom, auteur, version, taille, dates, etc.) et les structures de dossiers depuis le site `connect.bontaz.com` et les exporter sous forme de fichier CSV.  
 Elle peut fonctionner de manière récursive pour parcourir les sous-dossiers à un niveau de profondeur choisi.
 
 ## Table des matières
