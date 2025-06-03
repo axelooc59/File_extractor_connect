@@ -5,6 +5,10 @@
 Une extension de navigateur conçue pour extraire les informations sur les fichiers (nom, auteur, version, taille, dates, etc.) et les structures de dossiers depuis le site `connect.bontaz.com` et les exporter sous forme de fichier CSV.  
 Elle peut fonctionner de manière récursive pour parcourir les sous-dossiers à un niveau de profondeur choisi.
 
+![image](https://github.com/user-attachments/assets/276bf6b3-b413-4bdc-8f84-45fe1bcedc78)
+
+
+
 ## Table des matières
 
 - [Bontaz File Extractor](#bontaz-file-extractor)
@@ -33,6 +37,7 @@ Elle peut fonctionner de manière récursive pour parcourir les sous-dossiers à
 * **Chemin et URL du dossier** : Inclut le chemin complet du dossier et l'URL source pour chaque fichier extrait.
 
 ## Installation
+
 
 Actuellement, cette extension n'est pas publiée sur le Chrome Web Store. Vous pouvez l'installer manuellement à partir des sources.
 
@@ -70,6 +75,7 @@ Cliquez sur l'icône de l'extension Bontaz File Extractor (un petit icône qui d
     * **Profondeur max.** : Si le scan récursif est activé, vous pouvez spécifier le nombre maximal de niveaux de sous-dossiers à explorer (par exemple, 3 pour le dossier actuel + 3 niveaux de sous-dossiers).
 
     > ⚠️ **Avertissement** : Le scan récursif peut prendre plusieurs minutes selon le nombre de dossiers et de fichiers. Une barre de progression vous tiendra informé.
+![Capture d'écran 2025-06-03 095149](https://github.com/user-attachments/assets/94883b42-893a-468e-ab6c-a190dc1dba19)
 
 ### 5. Sélection des colonnes
 
