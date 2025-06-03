@@ -49,7 +49,7 @@ Actuellement, cette extension n'est pas publiée sur le Chrome Web Store. Vous p
     ```bash
     git clone https://github.com/axelooc59/File_extractor_connect.git
     ```
-2.  **Ouvrez Google Chrome** et accédez à `chrome://extensions`.
+2.  **Ouvrez Google Chrome** et accédez à `chrome://extensions` (`edges://extensions` sur Microsoft Edge)  
 3.  **Activez le "Mode développeur"** en haut à droite de la page.
 4.  Cliquez sur le bouton "**Charger l'extension non empaquetée**".
 5.  Sélectionnez le dossier où vous avez téléchargé/cloné les fichiers de l'extension (`bontaz-file-extractor`).
